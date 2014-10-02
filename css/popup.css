@@ -1,0 +1,26 @@
+#lightbox {
+    position:fixed; /* keeps the lightbox window in the current viewport */
+    top:0; 
+    left:0; 
+    width:100%; 
+    height:100%;
+	z-index:999999;
+	display:none;
+
+}
+
+#lightbox #content .alignright{ text-align:right; padding:10px;}
+#lightbox #content { 
+	width:600px;
+	min-height:500px;
+ 	margin:10% auto; 
+	background:#036;
+	color:#FFF;
+	padding:10px;
+	
+	}
+	
+	
+	.aligncenter { text-align:center; padding:10px;}
+
+
