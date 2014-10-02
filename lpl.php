@@ -77,7 +77,7 @@ Max WP Version: 4.0
 							<div id="lightbox">
 						   
 								<div id="content">
-								<p class="alignright">Click to close</p>
+								<p class="alignright boxClose">Click to close</p>
 								  <h2><?php echo esc_attr(get_option('title_option'));?></h2><br />
 								
 								   <?php echo do_shortcode(stripslashes(get_option('short_title_option')));?><br />
@@ -101,7 +101,7 @@ Max WP Version: 4.0
 						
 							<div id="lightbox">
 						      <div id="content">
-								<p id="alignright">Click to close</p>
+								<p id="alignright boxClose">Click to close</p>
 								  <h2><?php echo esc_attr(get_option('title_option'));?></h2><br />
 								
 								   <?php echo do_shortcode(stripslashes(get_option('short_title_option')));?><br />
