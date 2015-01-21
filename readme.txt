@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: contact4sajid
 Donate link: http://sksphpdev.com/plugins/
-Tags: lightbox, content
+Tags: lightbox, content, lightbox plus, popup, social, social profile, contact form, contact form 7, popup plugin, plugin, text, data
 Requires at least: 3.6
 Tested up to: 4.0
 Stable tag: 1.1
