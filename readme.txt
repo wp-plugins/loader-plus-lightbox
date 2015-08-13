@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: contact4sajid
-Donate link: http://sksphpdev.com/plugins/
+Contributors: contact4sajid, sksdev
+Donate link: http://sksdev.com
 Tags: lightbox, content, lightbox plus, popup, social, social profile, contact form, contact form 7, popup plugin, plugin, text, data
 Requires at least: 3.6
 Tested up to: 4.0
@@ -17,8 +17,8 @@ i.e. "Please Wait, Loading…"  animation image show for DOM (Document Object Mode
 
 Up coming version will have many more options
 
-Found a bug or have a feature request ? <a href="http://sksphpdev.com">
-Report here</a>  or have any question contact us at [info@sksphpdev.com](mailto:info@sksphpdev.com).
+Found a bug or have a feature request ? <a href="http://sksdev.com">
+Report here</a>  or have any question contact us at [info@sksdev.com](mailto:info@sksdev.com).
 
 == Installation ==
 

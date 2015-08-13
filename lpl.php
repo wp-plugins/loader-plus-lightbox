@@ -2,12 +2,12 @@
   
 /*
 Plugin Name: Loader Plus Lightbox
-Plugin URI: http://www.sksphpdev.com/plugins/
+Plugin URI: https://wordpress.org/plugins/loader-plus-lightbox
 Description: This plugin provides an easy way to before all body 'Onload/Bodyload/Windowload/Pageload' first loading show animation and lightbox show . 
-i.e. "Please Wait, Loading…"  animation image show for dom (document object model) or full body page/document load than show lightbox after content.
+i.e. "Please Wait, Loading"  animation image show for dom (document object model) or full body page/document load than show lightbox after content.
 Version: 1.0
-Author: SKSPHPDEV
-Author URI: http://sksphodev.com/
+Author: SKS DEV
+Author URI: http://sksdev.com/
 Min WP Version: 3.6
 Max WP Version: 4.0
 */
@@ -88,7 +88,7 @@ Max WP Version: 4.0
 							<?php 
                              /******* Copyright Text Show ********************/
                             if(get_option('pb_option')){?>
-			 <footer> 	<div class="aligncenter">Loader Plus Lightbox Plugin Developed by <a href='http://sksphpdev.com'>SKSPHPDEV Solutions</a></div></footer>
+			 <footer> 	<div class="aligncenter">Loader Plus Lightbox Plugin Developed by <a href='http://sksdev.com'>SKSDEV Solutions</a></div></footer>
 							<?php } ?>
 					
 								<?php 
@@ -112,7 +112,7 @@ Max WP Version: 4.0
 						<?php 
                          /******* Copyright Text Show ********************/
                         if(get_option('pb_option')){?>
-		  <footer>  <div class="aligncenter">Loader Plus Lightbox Plugin Developed by <a href='http://sksphpdev.com'>SKSPHPDEV Solutions</a></div></footer>
+		  <footer>  <div class="aligncenter">Loader Plus Lightbox Plugin Developed by <a href='http://sksdev.com'>SKSDEV Solutions</a></div></footer>
 							<?php
 								} 
 			
@@ -244,7 +244,7 @@ Max WP Version: 4.0
                  
                  <div id="icon-edit" class="icon32"></div>
                 
-     <h2><?php _e( 'LPL - Loader Plus Lightbox', 'lpl' ); ?> (V.1.0) <a href="http://www.sksphpdev.com" target="_blank">SKSPHPDEV</a></h2>
+     <h2><?php _e( 'LPL - Loader Plus Lightbox', 'lpl' ); ?> (V.1.0) <a href="http://www.sksdev.com" target="_blank">SKSDEV</a></h2>
               <hr />
             <!-- If we have any error by submiting the form, they will appear here -->
        <table class="form-table">
@@ -300,7 +300,7 @@ Max WP Version: 4.0
                    <td> <input type="text" name="short_title" value="<?php echo esc_attr(stripslashes(get_option('short_title_option')));?>" > For example: "[abc]" Copy short code and paste on this text field.
             </td></tr>
                    
-                 <tr valign="top"> <th scope="row"> <label for="pb">Powered by <a href="http://www.sksphpdev.com" target="_blank">SKSPHPDEV</a> </label></th>
+                 <tr valign="top"> <th scope="row"> <label for="pb">Powered by <a href="http://www.sksdev.com" target="_blank">SKSDEV</a> </label></th>
                    <td> <input type="checkbox" name="pb" <?php if(get_option('pb_option')){ echo 'checked'; } ?> >
                    </td></tr>
                   
